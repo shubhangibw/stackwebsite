@@ -1,4 +1,10 @@
 baseURL = 'https://shubhangibw.github.io/stackwebsite/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Edwin teaching me Hugo'
 theme = 'stack'
+[Params.Sidebar]
+    subtitle = "A blog by Shubhangi"
+    compact = true
+    avatar.enabled = true
+    avatar.src = "me.jpg"
+    avatar.local = false

@@ -6,6 +6,10 @@
   </url><url>
     <loc>http://localhost:1313/stackwebsite/</loc>
   </url><url>
+    <loc>http://localhost:1313/stackwebsite/post/</loc>
+  </url><url>
+    <loc>http://localhost:1313/stackwebsite/post/file/file/</loc>
+  </url><url>
     <loc>http://localhost:1313/stackwebsite/tags/</loc>
   </url>
 </urlset>
