@@ -1,3 +1,3 @@
 +++
-title = 'something'
+title = 'a new blog'
 +++

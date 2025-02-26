@@ -3,7 +3,8 @@ languageCode = 'en-us'
 title = 'User Blog'
 theme = 'stack'
 [Params.Sidebar]
-    subtitle = "A blog by Shubhangi"
+    subtitle = "For Yourself"
+    description = "A personal blog"
     compact = true
     avatar.enabled = true
     avatar.src = "me.jpg"
