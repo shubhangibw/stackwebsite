@@ -7,5 +7,5 @@ theme = 'stack'
     description = "A personal blog"
     compact = false
     avatar.enabled = true
-    avatar.src = ""
+    avatar.src = "me.jpg"
     avatar.local = false
