@@ -5,7 +5,7 @@ theme = 'stack'
 [Params.Sidebar]
     subtitle = "For Yourself"
     description = "A personal blog"
-    compact = false
+    compact = true
     avatar.enabled = true
     avatar.src = "me.jpg"
     avatar.local = true
