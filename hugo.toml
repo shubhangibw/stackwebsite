@@ -8,5 +8,4 @@ theme = 'stack'
     compact = false
     avatar.enabled = true
     avatar.src = "me.jpg"
-    avatar.local = true
-    avatar.width = 200
+    avatar.local = false
