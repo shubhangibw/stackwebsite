@@ -1,6 +1,6 @@
 baseURL = 'https://shubhangibw.github.io/stackwebsite/'
 languageCode = 'en-us'
-title = 'Edwin teaching me Hugo'
+title = 'User Blog'
 theme = 'stack'
 [Params.Sidebar]
     subtitle = "A blog by Shubhangi"
