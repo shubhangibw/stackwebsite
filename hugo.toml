@@ -17,3 +17,4 @@ theme = 'stack'
     issueTerm = "pathname"
     label = "blog-comment"
     theme = "github-dark"
+    crossorigin = "anonymous"
