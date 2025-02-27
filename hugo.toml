@@ -7,7 +7,7 @@ theme = 'stack'
     description = "A personal blog"
     compact = false
     avatar.enabled = true
-    avatar.src = "/stackwebsite/images/me.jpg"
+    avatar.src = "/stackwebsite/images/cropped-Avatar_LAB.jpg"
     avatar.local = false
 
 [Params.Comments.utterances]
