@@ -9,3 +9,11 @@ theme = 'stack'
     avatar.enabled = true
     avatar.src = "/stackwebsite/images/me.jpg"
     avatar.local = false
+
+[Params.Comments.utterances]
+    enabled = true
+    provider='utterances'
+    repo = "shubhangibw/stackwebsite"
+    issueTerm = "pathname"
+    label = "blog-comment"
+    theme = "github-dark"
