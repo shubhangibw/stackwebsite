@@ -1,10 +1,10 @@
 baseURL = 'https://shubhangibw.github.io/stackwebsite/'
 languageCode = 'en-us'
-title = 'User Blog'
+title = 'ABLOG'
 theme = 'stack'
 [Params.Sidebar]
-    subtitle = "For Yourself"
-    description = "A personal blog"
+    subtitle = "currently working on enabling comments on cards"
+    description = "I DONT SEE THIS"
     compact = false
     avatar.enabled = true
     avatar.src = "/stackwebsite/images/cropped-AMON.jpg"
