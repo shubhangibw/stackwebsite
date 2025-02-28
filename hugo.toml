@@ -2,6 +2,7 @@ baseURL = 'https://shubhangibw.github.io/stackwebsite/'
 languageCode = 'en-us'
 title = 'ABLOG'
 theme = 'stack'
+
 [Params.Sidebar]
     subtitle = "currently working on enabling comments on cards"
     description = "I DONT SEE THIS"
@@ -9,7 +10,14 @@ theme = 'stack'
     avatar.enabled = true
     avatar.src = "/stackwebsite/images/cropped-AMON.jpg"
     avatar.local = false
-    
+    toc = true
+
+[Params.Article]
+    readingTime = true
+    toc = true # dont change anything
+    license.enabled = true
+
+# following doesn't work
 [Params.DateFormat]
     published = "2006-01-02"
     lastUpdates = "2006-01-02"
