@@ -9,6 +9,10 @@ theme = 'stack'
     avatar.enabled = true
     avatar.src = "/stackwebsite/images/cropped-AMON.jpg"
     avatar.local = false
+    
+[Params.DateFormat]
+    published = "2006-01-02"
+    lastUpdates = "2006-01-02"
 
 [Params.Comments.utterances]
     enabled = true
